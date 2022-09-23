@@ -1,0 +1,11 @@
+a=True
+b=False
+a and b
+(a and b) or b
+(a and b) or not (a and b)
+a and b or not (a or b) or b
+b and b or not a and (a or b or a) or not(a or b)
+1<<2
+1 & 0 | 1 >> 1
+1 & 0 | 1 >> 0
+0b101 & 0b111 ^ 0b111 | 0b010
